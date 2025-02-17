@@ -1,5 +1,7 @@
 project:
   title: "ericamortland.github.io"
-
+  type: website
+  output-dir: docs
 editor: visual
+
 
